@@ -1,0 +1,16 @@
+The previous messages are as below
+----------------------------------
+jenish has joined
+jenish: hey
+jenish: how are you?
+shery has joined
+shery: i am fine, how about you?
+dhairya has joined
+dhairya: i am great tooo
+jenish: Seems great to me tooo
+parshwa has joined
+parshwa: Hello guys, remember me !!
+parshwa has left
+jenish has left
+dhairya has left
+shery has left
